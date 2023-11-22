@@ -1,9 +1,3 @@
-Numbers in C++
-
-This repository contains basic examples and explanations of numeric operations in C++. It's structured similarly to a Jupyter notebook, providing insights into fundamental arithmetic operations, variable assignments, and numeric types in C++.
-
-## Topics Covered
-
 ### Types of Numbers
 
 Integers are whole numbers, positive or negative. For instance, `3` and `-2` are examples of integers.

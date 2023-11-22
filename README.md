@@ -38,7 +38,8 @@ Floating-point numbers have decimal points or use exponential notation (`e` or `
 
 ```cpp
 // Floor Division
-7 / 4  
+int result = 7 / 4;
+
 ```
 > 1
 
